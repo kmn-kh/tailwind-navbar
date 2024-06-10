@@ -7,6 +7,8 @@ module.exports = {
         Tilt: ["Tilt", "sans-serif"],
         MuolLight: ["MuolLight", "sans-serif"],
         Lobster: ["Lobster", "sans-serif"],
+        Permanent: ['Permanent Marker', 'cursive'],
+        Monoton: ['Monoton', 'sans-serif'],
       }
     },
     fontSize: {
